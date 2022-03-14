@@ -1,0 +1,2272 @@
+
+pack.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+13
+  rotate: false
+  xy: 1782, 1082
+  size: 261, 68
+  orig: 261, 68
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 1793, 1585
+  size: 230, 74
+  orig: 230, 74
+  offset: 0, 0
+  index: -1
+25
+  rotate: false
+  xy: 1793, 1969
+  size: 252, 77
+  orig: 252, 77
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1793, 1312
+  size: 205, 78
+  orig: 205, 78
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1793, 1232
+  size: 205, 78
+  orig: 205, 78
+  offset: 0, 0
+  index: -1
+42
+  rotate: false
+  xy: 1, 1053
+  size: 1779, 110
+  orig: 1779, 110
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1793, 1152
+  size: 205, 78
+  orig: 205, 78
+  offset: 0, 0
+  index: -1
+A (1)
+  rotate: false
+  xy: 1633, 1
+  size: 393, 1050
+  orig: 393, 1050
+  offset: 0, 0
+  index: -1
+GUIA LABERINTO JUEGO 2
+  rotate: false
+  xy: 1, 1
+  size: 1630, 1050
+  orig: 1630, 1050
+  offset: 0, 0
+  index: -1
+I.GALLETA
+  rotate: false
+  xy: 1793, 1661
+  size: 251, 306
+  orig: 251, 306
+  offset: 0, 0
+  index: -1
+I.LABERP
+  rotate: false
+  xy: 1, 1165
+  size: 1790, 881
+  orig: 1790, 881
+  offset: 0, 0
+  index: -1
+IP.MAMBRU
+  rotate: false
+  xy: 1793, 1392
+  size: 219, 191
+  orig: 219, 191
+  offset: 0, 0
+  index: -1
+white-pixel
+  rotate: false
+  xy: 2046, 1966
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+
+pack2.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+10
+  rotate: false
+  xy: 1841, 1019
+  size: 203, 77
+  orig: 203, 77
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 1690, 1791
+  size: 319, 79
+  orig: 319, 79
+  offset: 0, 0
+  index: -1
+27
+  rotate: false
+  xy: 1690, 1595
+  size: 310, 69
+  orig: 310, 69
+  offset: 0, 0
+  index: -1
+30
+  rotate: false
+  xy: 1690, 1666
+  size: 313, 123
+  orig: 313, 123
+  offset: 0, 0
+  index: -1
+37
+  rotate: false
+  xy: 1690, 1872
+  size: 333, 75
+  orig: 333, 75
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 1841, 1098
+  size: 203, 78
+  orig: 203, 78
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 1690, 1517
+  size: 306, 76
+  orig: 306, 76
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 1690, 1949
+  size: 349, 90
+  orig: 349, 90
+  offset: 0, 0
+  index: -1
+ABRAZO
+  rotate: false
+  xy: 1, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+IABRAZO
+  rotate: false
+  xy: 1, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 2
+BINGO
+  rotate: false
+  xy: 1003, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+IBINGO
+  rotate: false
+  xy: 1003, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 2
+IP.BRUZA
+  rotate: false
+  xy: 1452, 1008
+  size: 192, 168
+  orig: 192, 168
+  offset: 0, 0
+  index: -1
+IP.LIBRO
+  rotate: false
+  xy: 1646, 1015
+  size: 193, 161
+  orig: 193, 161
+  offset: 0, 0
+  index: -1
+P.BRUJA
+  rotate: false
+  xy: 1452, 1178
+  size: 595, 337
+  orig: 595, 337
+  offset: 0, 0
+  index: -1
+PMAMBRU
+  rotate: false
+  xy: 1, 1003
+  size: 1449, 517
+  orig: 1449, 517
+  offset: 0, 0
+  index: 2
+PSOMBRE
+  rotate: false
+  xy: 1, 1522
+  size: 1687, 517
+  orig: 1687, 517
+  offset: 0, 0
+  index: 2
+
+pack3.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+15
+  rotate: false
+  xy: 1238, 20
+  size: 625, 148
+  orig: 625, 148
+  offset: 0, 0
+  index: -1
+31
+  rotate: false
+  xy: 584, 1
+  size: 575, 73
+  orig: 575, 73
+  offset: 0, 0
+  index: -1
+41
+  rotate: false
+  xy: 1238, 170
+  size: 661, 146
+  orig: 661, 146
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 1, 5
+  size: 581, 69
+  orig: 581, 69
+  offset: 0, 0
+  index: -1
+A (2)
+  rotate: false
+  xy: 1384, 996
+  size: 482, 1050
+  orig: 482, 1050
+  offset: 0, 0
+  index: -1
+A (4)
+  rotate: false
+  xy: 1868, 996
+  size: 164, 1050
+  orig: 164, 1050
+  offset: 0, 0
+  index: -1
+I.CHIPA
+  rotate: false
+  xy: 1238, 459
+  size: 69, 60
+  orig: 69, 60
+  offset: 0, 0
+  index: -1
+I.CHIPBRA
+  rotate: false
+  xy: 1238, 397
+  size: 69, 60
+  orig: 69, 60
+  offset: 0, 0
+  index: -1
+I.CHIPBRE
+  rotate: false
+  xy: 1238, 334
+  size: 68, 61
+  orig: 68, 61
+  offset: 0, 0
+  index: -1
+I.CHIPBRU
+  rotate: false
+  xy: 1161, 13
+  size: 69, 61
+  orig: 69, 61
+  offset: 0, 0
+  index: -1
+I.CHIPR
+  rotate: false
+  xy: 1238, 521
+  size: 69, 72
+  orig: 69, 72
+  offset: 0, 0
+  index: -1
+I.FONDOP1
+  rotate: false
+  xy: 1, 1321
+  size: 1381, 725
+  orig: 1381, 725
+  offset: 0, 0
+  index: -1
+IP.BALSA
+  rotate: false
+  xy: 1901, 123
+  size: 146, 193
+  orig: 146, 193
+  offset: 0, 0
+  index: -1
+NUEVO FONDO DE JUEGO
+  rotate: false
+  xy: 1, 595
+  size: 1327, 724
+  orig: 1327, 724
+  offset: 0, 0
+  index: -1
+P.BARUJA
+  rotate: false
+  xy: 1865, 40
+  size: 174, 81
+  orig: 174, 81
+  offset: 0, 0
+  index: -1
+P.BINGO
+  rotate: false
+  xy: 1330, 657
+  size: 709, 337
+  orig: 709, 337
+  offset: 0, 0
+  index: -1
+P.BRINCO
+  rotate: false
+  xy: 1330, 318
+  size: 709, 337
+  orig: 709, 337
+  offset: 0, 0
+  index: -1
+P.BRINCO
+  rotate: false
+  xy: 1330, 318
+  size: 709, 337
+  orig: 709, 337
+  offset: 0, 0
+  index: 1
+PBRUJULA
+  rotate: false
+  xy: 1, 76
+  size: 1235, 517
+  orig: 1235, 517
+  offset: 0, 0
+  index: 2
+
+pack4.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+11
+  rotate: false
+  xy: 810, 173
+  size: 385, 90
+  orig: 385, 90
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 109, 158
+  size: 271, 105
+  orig: 271, 105
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 1, 1822
+  size: 1286, 223
+  orig: 1286, 223
+  offset: 0, 0
+  index: -1
+29
+  rotate: false
+  xy: 382, 161
+  size: 426, 102
+  orig: 426, 102
+  offset: 0, 0
+  index: -1
+36
+  rotate: false
+  xy: 1629, 45
+  size: 380, 90
+  orig: 380, 90
+  offset: 0, 0
+  index: -1
+38
+  rotate: false
+  xy: 585, 13
+  size: 603, 146
+  orig: 603, 146
+  offset: 0, 0
+  index: -1
+39
+  rotate: false
+  xy: 1190, 37
+  size: 437, 98
+  orig: 437, 98
+  offset: 0, 0
+  index: -1
+A (7)
+  rotate: false
+  xy: 1227, 476
+  size: 807, 1050
+  orig: 807, 1050
+  offset: 0, 0
+  index: -1
+Bonecounter
+  rotate: false
+  xy: 1227, 1781
+  size: 57, 39
+  orig: 57, 39
+  offset: 0, 0
+  index: -1
+I.HUESO
+  rotate: false
+  xy: 1227, 1781
+  size: 57, 39
+  orig: 57, 39
+  offset: 0, 0
+  index: -1
+IP.BOCA
+  rotate: false
+  xy: 390, 5
+  size: 193, 154
+  orig: 193, 154
+  offset: 0, 0
+  index: -1
+IP.BRUMA
+  rotate: false
+  xy: 1, 2
+  size: 192, 133
+  orig: 192, 133
+  offset: 0, 0
+  index: -1
+IP.SOBRE
+  rotate: false
+  xy: 195, 1
+  size: 193, 155
+  orig: 193, 155
+  offset: 0, 0
+  index: -1
+P.BROCOLI
+  rotate: false
+  xy: 1209, 137
+  size: 787, 337
+  orig: 787, 337
+  offset: 0, 0
+  index: -1
+PBROCHA
+  rotate: false
+  xy: 1, 265
+  size: 1206, 517
+  orig: 1206, 517
+  offset: 0, 0
+  index: 2
+PBROCOLI
+  rotate: false
+  xy: 1, 784
+  size: 1208, 517
+  orig: 1208, 517
+  offset: 0, 0
+  index: 2
+PFABRICA
+  rotate: false
+  xy: 1, 1303
+  size: 1224, 517
+  orig: 1224, 517
+  offset: 0, 0
+  index: 2
+PVINO
+  rotate: false
+  xy: 1289, 1528
+  size: 757, 517
+  orig: 757, 517
+  offset: 0, 0
+  index: 2
+zayrus
+  rotate: false
+  xy: 1, 156
+  size: 106, 107
+  orig: 106, 107
+  offset: 0, 0
+  index: 7
+
+pack5.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+22
+  rotate: false
+  xy: 1094, 7
+  size: 197, 78
+  orig: 197, 78
+  offset: 0, 0
+  index: -1
+23
+  rotate: false
+  xy: 795, 7
+  size: 297, 78
+  orig: 297, 78
+  offset: 0, 0
+  index: -1
+24
+  rotate: false
+  xy: 1293, 10
+  size: 197, 78
+  orig: 197, 78
+  offset: 0, 0
+  index: -1
+26
+  rotate: false
+  xy: 1492, 12
+  size: 197, 78
+  orig: 197, 78
+  offset: 0, 0
+  index: -1
+28
+  rotate: false
+  xy: 1767, 209
+  size: 271, 74
+  orig: 271, 74
+  offset: 0, 0
+  index: -1
+40
+  rotate: false
+  xy: 1, 1
+  size: 363, 84
+  orig: 363, 84
+  offset: 0, 0
+  index: -1
+I.CHIPBRI
+  rotate: false
+  xy: 1691, 30
+  size: 69, 60
+  orig: 69, 60
+  offset: 0, 0
+  index: -1
+IP.BEBA
+  rotate: false
+  xy: 1102, 89
+  size: 132, 194
+  orig: 132, 194
+  offset: 0, 0
+  index: -1
+IP.BINGO
+  rotate: false
+  xy: 1767, 3
+  size: 159, 204
+  orig: 159, 204
+  offset: 0, 0
+  index: -1
+IP.BOTA
+  rotate: false
+  xy: 1397, 92
+  size: 184, 191
+  orig: 184, 191
+  offset: 0, 0
+  index: -1
+IP.BRINCO
+  rotate: false
+  xy: 1193, 1144
+  size: 801, 882
+  orig: 801, 882
+  offset: 0, 0
+  index: -1
+IP.BROCHA
+  rotate: false
+  xy: 1583, 92
+  size: 182, 191
+  orig: 182, 191
+  offset: 0, 0
+  index: -1
+IP.COBRA
+  rotate: false
+  xy: 1236, 90
+  size: 159, 193
+  orig: 159, 193
+  offset: 0, 0
+  index: -1
+IP.VINO
+  rotate: false
+  xy: 1928, 16
+  size: 112, 191
+  orig: 112, 191
+  offset: 0, 0
+  index: -1
+P.BAREVA
+  rotate: false
+  xy: 1163, 285
+  size: 855, 337
+  orig: 855, 337
+  offset: 0, 0
+  index: -1
+P.DOCHA
+  rotate: false
+  xy: 366, 3
+  size: 166, 82
+  orig: 166, 82
+  offset: 0, 0
+  index: -1
+P.DRUJA
+  rotate: false
+  xy: 534, 3
+  size: 144, 82
+  orig: 144, 82
+  offset: 0, 0
+  index: -1
+P.SOMBRERO
+  rotate: false
+  xy: 1, 87
+  size: 1099, 338
+  orig: 1099, 338
+  offset: 0, 0
+  index: -1
+PABRAZO
+  rotate: false
+  xy: 1, 1509
+  size: 1190, 517
+  orig: 1190, 517
+  offset: 0, 0
+  index: 2
+PBRINCO
+  rotate: false
+  xy: 1, 946
+  size: 1179, 561
+  orig: 1179, 561
+  offset: 0, 0
+  index: 2
+PBRISA
+  rotate: false
+  xy: 1182, 624
+  size: 865, 518
+  orig: 865, 518
+  offset: 0, 0
+  index: 2
+PLIBRETA
+  rotate: false
+  xy: 1, 427
+  size: 1160, 517
+  orig: 1160, 517
+  offset: 0, 0
+  index: 2
+zayrus
+  rotate: false
+  xy: 680, 3
+  size: 113, 82
+  orig: 113, 82
+  offset: 0, 0
+  index: 6
+
+pack6.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+BOCA
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+BOTA
+  rotate: false
+  xy: 1, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+BRAZO
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+IABRAZO
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+IBINGO
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+IBRASIL
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+IBREVA
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+IBRINCO
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+IBRISA
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+IBROCA
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+IBROCHA
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+IBROCOLI
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+IBROTE
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+IBRUJA
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+IBRUJULA
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+IBRUMA
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+IBRUZA
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+ICABRA
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+ICOBRA
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+IFABRICA
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+ILIBRETA
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+ILIBRO
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+ILIEBRE
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+IMAMBRU
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+ISOBRE
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+ISOMBRE
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+IVINO
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+PABRAZO
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+PBINGO
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+PBRASIL
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+PBRAZO
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+PBREVA
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+PBRINCO
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+PBRISA
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+PBROCA
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+PBROCHA
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+PBROCOLI
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+PBROTE
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+PBRUJA
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+PBRUJULA
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+PBRUMA
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+PBRUZA
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+PCABRA
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+PCOBRA
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+PFABRICA
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+PLIBRETA
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+PLIBRO
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+PLIEBRE
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+PMAMBRU
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+PSOBRE
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+PSOMBRE
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+PVINO
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+BRAZO
+  rotate: false
+  xy: 1003, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 2
+IBRAZO
+  rotate: false
+  xy: 1003, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+
+pack7.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+BRAZO
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+IABRAZO
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+IBINGO
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+IBRASIL
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+IBREVA
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+IBRINCO
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+IBRISA
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+IBROCA
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+IBROCHA
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+IBROCOLI
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+IBROTE
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+IBRUJA
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+IBRUJULA
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+IBRUMA
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+IBRUZA
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+ICABRA
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+ICOBRA
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+IFABRICA
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+ILIBRETA
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+ILIBRO
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+ILIEBRE
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+IMAMBRU
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+ISOBRE
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+ISOMBRE
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+IVINO
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+PABRAZO
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+PBINGO
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+PBRASIL
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+PBRAZO
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+PBREVA
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+PBRINCO
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+PBRISA
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+PBROCA
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+PBROCHA
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+PBROCOLI
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+PBROTE
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+PBRUJA
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+PBRUJULA
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+PBRUMA
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+PBRUZA
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+PCABRA
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+PCOBRA
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+PFABRICA
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+PLIBRETA
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+PLIBRO
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+PLIEBRE
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+PMAMBRU
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+PSOBRE
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+PSOMBRE
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+PVINO
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+BREVA
+  rotate: false
+  xy: 1, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+IBREVA
+  rotate: false
+  xy: 1, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 2
+BRINCO
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+IBRINCO
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 2
+BRISA
+  rotate: false
+  xy: 1003, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+IBRISA
+  rotate: false
+  xy: 1003, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 2
+
+pack8.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+BROCA
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+IBROCA
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 2
+BROCHA
+  rotate: false
+  xy: 1, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+IBROCHA
+  rotate: false
+  xy: 1, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 2
+BRUJA
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+IBRUJA
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 2
+BRUJULA
+  rotate: false
+  xy: 1003, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+IBRUJULA
+  rotate: false
+  xy: 1003, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 2
+
+pack9.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+BRUMA
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+IBRUMA
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 2
+BRUZA
+  rotate: false
+  xy: 1, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+IBRUZA
+  rotate: false
+  xy: 1, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 2
+COBRA
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+ICOBRA
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 2
+FABRICA
+  rotate: false
+  xy: 1003, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+IFABRICA
+  rotate: false
+  xy: 1003, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 2
+
+pack10.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+IBALSA
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+IBEBA
+  rotate: false
+  xy: 1, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+IBESO
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+IBRASIL
+  rotate: false
+  xy: 1003, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 2
+
+pack11.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+IBROCOLI
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 2
+IBROTE
+  rotate: false
+  xy: 1, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 2
+ICABRA
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 2
+ILIBRETA
+  rotate: false
+  xy: 1003, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 2
+
+pack12.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+ILIBRO
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 2
+LIBRO
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+ILIEBRE
+  rotate: false
+  xy: 1, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+ILIEBRE
+  rotate: false
+  xy: 1, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 2
+LIEBRE
+  rotate: false
+  xy: 1, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+IMAMBRU
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 2
+MAMBRU
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+ISOBRE
+  rotate: false
+  xy: 1003, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+ISOBRE
+  rotate: false
+  xy: 1003, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 2
+SOBRE
+  rotate: false
+  xy: 1003, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+
+pack13.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+16
+  rotate: false
+  xy: 1003, 120
+  size: 519, 69
+  orig: 519, 69
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 1806, 177
+  size: 195, 77
+  orig: 195, 77
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1290, 41
+  size: 203, 77
+  orig: 203, 77
+  offset: 0, 0
+  index: -1
+33
+  rotate: false
+  xy: 1003, 51
+  size: 285, 67
+  orig: 285, 67
+  offset: 0, 0
+  index: -1
+IP.ABRAZO
+  rotate: false
+  xy: 1524, 1
+  size: 192, 188
+  orig: 192, 188
+  offset: 0, 0
+  index: -1
+IP.BRAZO
+  rotate: false
+  xy: 1003, 191
+  size: 801, 854
+  orig: 801, 854
+  offset: 0, 0
+  index: -1
+IP.BREVA
+  rotate: false
+  xy: 1806, 256
+  size: 172, 190
+  orig: 172, 190
+  offset: 0, 0
+  index: -1
+IP.BRISA
+  rotate: false
+  xy: 1718, 30
+  size: 193, 145
+  orig: 193, 145
+  offset: 0, 0
+  index: -1
+IP.BRUJULA
+  rotate: false
+  xy: 1806, 843
+  size: 186, 202
+  orig: 186, 202
+  offset: 0, 0
+  index: -1
+IP.FABRICA
+  rotate: false
+  xy: 1806, 641
+  size: 185, 200
+  orig: 185, 200
+  offset: 0, 0
+  index: -1
+IP.LIEBRE
+  rotate: false
+  xy: 1806, 448
+  size: 172, 191
+  orig: 172, 191
+  offset: 0, 0
+  index: -1
+ISOMBRE
+  rotate: false
+  xy: 1, 1047
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 2
+IVASO
+  rotate: false
+  xy: 1, 45
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+IVINO
+  rotate: false
+  xy: 1003, 1047
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 2
+VINO
+  rotate: false
+  xy: 1003, 1047
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+zayrus
+  rotate: false
+  xy: 1913, 102
+  size: 125, 73
+  orig: 125, 73
+  offset: 0, 0
+  index: 12
+zayrus
+  rotate: false
+  xy: 1913, 30
+  size: 133, 70
+  orig: 133, 70
+  offset: 0, 0
+  index: 1
+
+pack14.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+1
+  rotate: false
+  xy: 819, 148
+  size: 146, 66
+  orig: 146, 66
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 819, 216
+  size: 164, 77
+  orig: 164, 77
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 1, 23
+  size: 196, 77
+  orig: 196, 77
+  offset: 0, 0
+  index: -1
+32
+  rotate: false
+  xy: 646, 73
+  size: 143, 69
+  orig: 143, 69
+  offset: 0, 0
+  index: -1
+34
+  rotate: false
+  xy: 646, 144
+  size: 171, 73
+  orig: 171, 73
+  offset: 0, 0
+  index: -1
+35
+  rotate: false
+  xy: 646, 219
+  size: 171, 74
+  orig: 171, 74
+  offset: 0, 0
+  index: -1
+I.CHIPBRO
+  rotate: false
+  xy: 985, 233
+  size: 69, 60
+  orig: 69, 60
+  offset: 0, 0
+  index: -1
+IP.BESO
+  rotate: false
+  xy: 305, 152
+  size: 194, 141
+  orig: 194, 141
+  offset: 0, 0
+  index: -1
+IP.BROCA
+  rotate: false
+  xy: 157, 102
+  size: 146, 191
+  orig: 146, 191
+  offset: 0, 0
+  index: -1
+IP.BRUJA
+  rotate: false
+  xy: 501, 93
+  size: 143, 200
+  orig: 143, 200
+  offset: 0, 0
+  index: -1
+IP.VASO
+  rotate: false
+  xy: 1, 102
+  size: 154, 191
+  orig: 154, 191
+  offset: 0, 0
+  index: -1
+P.BOROCHA
+  rotate: false
+  xy: 1123, 1177
+  size: 924, 337
+  orig: 924, 337
+  offset: 0, 0
+  index: -1
+PBINGO
+  rotate: false
+  xy: 1, 295
+  size: 1088, 518
+  orig: 1088, 518
+  offset: 0, 0
+  index: 2
+PBRUJA
+  rotate: false
+  xy: 1121, 1516
+  size: 913, 517
+  orig: 913, 517
+  offset: 0, 0
+  index: 2
+PBRUMA
+  rotate: false
+  xy: 1, 815
+  size: 1120, 517
+  orig: 1120, 517
+  offset: 0, 0
+  index: 2
+PCABRA
+  rotate: false
+  xy: 1091, 138
+  size: 955, 518
+  orig: 955, 518
+  offset: 0, 0
+  index: 2
+PLIBRO
+  rotate: false
+  xy: 1123, 658
+  size: 793, 517
+  orig: 793, 517
+  offset: 0, 0
+  index: 2
+referencia laberinto juego
+  rotate: false
+  xy: 1, 1334
+  size: 1118, 699
+  orig: 1118, 699
+  offset: 0, 0
+  index: -1
+zayrus
+  rotate: false
+  xy: 1918, 1109
+  size: 125, 66
+  orig: 125, 66
+  offset: 0, 0
+  index: 11
+zayrus
+  rotate: false
+  xy: 305, 77
+  size: 140, 73
+  orig: 140, 73
+  offset: 0, 0
+  index: 10
+zayrus
+  rotate: false
+  xy: 819, 76
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: 13
+zayrus
+  rotate: false
+  xy: 791, 4
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: 5
+zayrus
+  rotate: false
+  xy: 447, 21
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: 8
+zayrus
+  rotate: false
+  xy: 589, 1
+  size: 138, 70
+  orig: 138, 70
+  offset: 0, 0
+  index: 2
+zayrus
+  rotate: false
+  xy: 933, 4
+  size: 135, 70
+  orig: 135, 70
+  offset: 0, 0
+  index: 0
+zayrus
+  rotate: false
+  xy: 1070, 66
+  size: 136, 70
+  orig: 136, 70
+  offset: 0, 0
+  index: 9
+zayrus
+  rotate: false
+  xy: 1208, 66
+  size: 135, 70
+  orig: 135, 70
+  offset: 0, 0
+  index: 14
+zayrus
+  rotate: false
+  xy: 1345, 66
+  size: 135, 70
+  orig: 135, 70
+  offset: 0, 0
+  index: 4
+zayrus
+  rotate: false
+  xy: 1482, 66
+  size: 133, 70
+  orig: 133, 70
+  offset: 0, 0
+  index: 3
+
+pack15.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+P.ABRAZO
+  rotate: false
+  xy: 789, 1
+  size: 775, 337
+  orig: 775, 337
+  offset: 0, 0
+  index: -1
+P.BROCHA
+  rotate: false
+  xy: 1, 1
+  size: 786, 337
+  orig: 786, 337
+  offset: 0, 0
+  index: -1
+PBRAZO
+  rotate: false
+  xy: 1003, 1379
+  size: 984, 517
+  orig: 984, 517
+  offset: 0, 0
+  index: 2
+PBREVA
+  rotate: false
+  xy: 995, 860
+  size: 983, 517
+  orig: 983, 517
+  offset: 0, 0
+  index: 2
+PBROTE
+  rotate: false
+  xy: 990, 340
+  size: 974, 518
+  orig: 974, 518
+  offset: 0, 0
+  index: 2
+PBRUZA
+  rotate: false
+  xy: 1, 860
+  size: 992, 517
+  orig: 992, 517
+  offset: 0, 0
+  index: 2
+PLIEBRE
+  rotate: false
+  xy: 1, 1379
+  size: 1000, 517
+  orig: 1000, 517
+  offset: 0, 0
+  index: 2
+PSOBRE
+  rotate: false
+  xy: 1, 340
+  size: 987, 518
+  orig: 987, 518
+  offset: 0, 0
+  index: 2
+
+pack16.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+A (5)
+  rotate: false
+  xy: 1968, 993
+  size: 77, 1050
+  orig: 77, 1050
+  offset: 0, 0
+  index: -1
+A (6)
+  rotate: false
+  xy: 1673, 474
+  size: 293, 1050
+  orig: 293, 1050
+  offset: 0, 0
+  index: -1
+P.BARICO
+  rotate: false
+  xy: 974, 1187
+  size: 697, 337
+  orig: 697, 337
+  offset: 0, 0
+  index: -1
+P.BOCHA
+  rotate: false
+  xy: 1, 329
+  size: 682, 337
+  orig: 682, 337
+  offset: 0, 0
+  index: -1
+P.BRAZO
+  rotate: false
+  xy: 733, 509
+  size: 641, 337
+  orig: 641, 337
+  offset: 0, 0
+  index: -1
+P.BREVA
+  rotate: false
+  xy: 685, 169
+  size: 641, 338
+  orig: 641, 338
+  offset: 0, 0
+  index: -1
+P.BRUMA
+  rotate: false
+  xy: 1, 668
+  size: 730, 337
+  orig: 730, 337
+  offset: 0, 0
+  index: -1
+P.BRUNA
+  rotate: false
+  xy: 974, 848
+  size: 666, 337
+  orig: 666, 337
+  offset: 0, 0
+  index: -1
+P.COBRA
+  rotate: false
+  xy: 1328, 135
+  size: 632, 337
+  orig: 632, 337
+  offset: 0, 0
+  index: -1
+PBRASIL
+  rotate: false
+  xy: 1, 1526
+  size: 972, 517
+  orig: 972, 517
+  offset: 0, 0
+  index: 2
+PBROCA
+  rotate: false
+  xy: 1, 1007
+  size: 971, 517
+  orig: 971, 517
+  offset: 0, 0
+  index: 2
+PCOBRA
+  rotate: false
+  xy: 975, 1526
+  size: 969, 517
+  orig: 969, 517
+  offset: 0, 0
+  index: 2
+sprite sheed
+  rotate: false
+  xy: 1, 1
+  size: 558, 326
+  orig: 558, 326
+  offset: 0, 0
+  index: -1
+
+pack17.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+A (3)
+  rotate: false
+  xy: 1, 1
+  size: 82, 1050
+  orig: 82, 1050
+  offset: 0, 0
+  index: -1
+BRICO
+  rotate: false
+  xy: 1342, 714
+  size: 568, 337
+  orig: 568, 337
+  offset: 0, 0
+  index: -1
+P.BALSA
+  rotate: false
+  xy: 85, 36
+  size: 614, 337
+  orig: 614, 337
+  offset: 0, 0
+  index: -1
+P.BINCO
+  rotate: false
+  xy: 713, 375
+  size: 604, 337
+  orig: 604, 337
+  offset: 0, 0
+  index: -1
+P.BLAZO
+  rotate: false
+  xy: 715, 714
+  size: 625, 337
+  orig: 625, 337
+  offset: 0, 0
+  index: -1
+P.BLEVA
+  rotate: false
+  xy: 85, 375
+  size: 626, 337
+  orig: 626, 337
+  offset: 0, 0
+  index: -1
+P.BREA
+  rotate: false
+  xy: 701, 36
+  size: 510, 337
+  orig: 510, 337
+  offset: 0, 0
+  index: -1
+P.VASO
+  rotate: false
+  xy: 85, 714
+  size: 628, 337
+  orig: 628, 337
+  offset: 0, 0
+  index: -1

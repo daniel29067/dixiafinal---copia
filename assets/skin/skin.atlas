@@ -1,0 +1,48 @@
+
+skin.png
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Play-Button
+  rotate: false
+  xy: 1, 334
+  size: 130, 132
+  orig: 130, 132
+  offset: 0, 0
+  index: -1
+OriginTech personal use
+  rotate: false
+  xy: 1, 468
+  size: 498, 29
+  orig: 498, 29
+  offset: 0, 0
+  index: -1
+boton de salto
+  rotate: false
+  xy: 133, 398
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+flecha derecha
+  rotate: false
+  xy: 133, 338
+  size: 37, 58
+  orig: 37, 58
+  offset: 0, 0
+  index: -1
+flecha izquierda
+  rotate: false
+  xy: 1, 144
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: -1
+back_previous
+  rotate: false
+  xy: 1, 204
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

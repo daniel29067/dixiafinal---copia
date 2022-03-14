@@ -1,0 +1,55 @@
+{
+com.badlogic.gdx.graphics.g2d.BitmapFont: {
+	OriginTech_personal_use: {
+		file: OriginTech personal use.fnt
+	}
+}
+com.badlogic.gdx.graphics.Color: {
+	RGBA_0_0_0_255: {
+		r: 0
+		g: 0
+		b: 0
+		a: 1
+	}
+	RGBA_255_250_42_255: {
+		r: 1
+		g: 0.9810648
+		b: 0.16666675
+		a: 1
+	}
+	RGBA_255_255_255_255: {
+		r: 1
+		g: 1
+		b: 1
+		a: 1
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle: {
+	left: {
+		up: flecha izquierda
+	}
+	right: {
+		up: flecha derecha
+	}
+	jump: {
+		up: boton de salto
+	}
+	play: {
+		up: Play-Button
+	}
+	return: {
+		up: back_previous
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+	default: {
+		font: OriginTech_personal_use
+		fontColor: RGBA_255_250_42_255
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextTooltip$TextTooltipStyle: {
+	default: {
+		label: default
+	}
+}
+}
